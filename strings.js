@@ -34,3 +34,11 @@ if (animal.toLowerCase()==="alligator"){
 } else{
     console.log("animal type: wide")
 }
+
+//in class example adding HTML via Javascript
+var yarn = "the better string"; 
+var domString = "<h4>" + yarn + "</h4>"; 
+
+var myDiv = document.getElementById('yarn-holder');
+
+myDiv.innerHTML = domString; 
