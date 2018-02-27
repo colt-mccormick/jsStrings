@@ -4,4 +4,4 @@ console.log("hello world!!!!");
 
 
 var numOfSandwiches= 4*2; 
-console.log("numOfSandwiches", numOfSandwiches)//prints 8
+console.log("numOfSandwiches", numOfSandwiches)//should print 8
